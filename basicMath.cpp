@@ -15,5 +15,5 @@ int main() {
     std::cout << "Division: 50 / 2 = " << 50 / 2 << std::endl;
     std::cout << "Multiplication: 5 + 12 * 5 = " << 5 + 12 * 5 << std::endl;
     std::cout << "Exponents: 3^3 = " << pow(3, 3) << std::endl;
-    std::cout << "Decimal Output: 10 / 3 = " << float(10) / float(3) << std::endl;
+    std::cout << "Decimal Output: 10 / 3 = " << float(10) / float(3) << "\n";
 }
