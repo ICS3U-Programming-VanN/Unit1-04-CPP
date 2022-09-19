@@ -13,6 +13,6 @@
 // Outputs area and perimeter of rectangle.
 int main() {
     std::cout << "For a rectangle with Length: 12cm and Width: 2533cm...\n";
-    std::cout << "Area = " << 12 * 2533 << "cm^2" << std::endl;
-    std::cout << "Perimeter = " << 2 * (12 + 2533) << "cm" << std::endl;
+    std::cout << "Area = " << 12 * 2533 << "cm^2\n";
+    std::cout << "Perimeter = " << 2 * (12 + 2533) << "cm\n";
 }
